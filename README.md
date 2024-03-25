@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the basics of coding as well as coding tools.
 - 📫 How to reach me :
     - Linkedin : https://www.linkedin.com/in/dany-houssin-923818300/
-    - Email Addres : danyhoussin50@gmail.com
+    - Email Address : danyhoussin50@gmail.com
 - 😄 Pronouns: He.
 
 <!---
