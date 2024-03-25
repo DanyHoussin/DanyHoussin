@@ -4,7 +4,6 @@
 - 📫 How to reach me :
     - Linkedin : https://www.linkedin.com/in/dany-houssin-923818300/
     - Email Addres : danyhoussin50@gmail.com
-    - Discord : danydelamuerte
 - 😄 Pronouns: He.
 
 <!---
