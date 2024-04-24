@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lesaaang21
+- 👋 Hi, I’m Dany
 - 👀 I’m interested in everything related to the PC (3D modeling, Photo montage, Vidéo montage, coding, etc...) and combat sport.
 - 🌱 I’m currently learning the basics of coding as well as coding tools.
 - 📫 How to reach me :
