@@ -6,7 +6,8 @@
     - Email Address : danyhoussin50@gmail.com
 - 😄 Pronouns: He.
 
-![QuotesGif](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/df400fc8-29ff-4ceb-b037-6a6f4c8e5c63)
+![QuotesGif](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/f5bbbe51-acd3-4812-ad83-3f258f1e1f78)
+
 
 
 
