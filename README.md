@@ -6,6 +6,10 @@
     - Email Address : danyhoussin50@gmail.com
 - 😄 Pronouns: He.
 
+![QuotesGif](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/df400fc8-29ff-4ceb-b037-6a6f4c8e5c63)
+
+
+
 <!---
 Lesaaang21/Lesaaang21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
