@@ -1,5 +1,12 @@
 - 👋 Hi, I’m Dany
 - 👀 I’m interested in everything related to the PC (3D modeling, Photo montage, Vidéo montage, coding, etc...), combat sport and drawing.
+
+  <img src="img/visual-studio-code-logo-png-transparent.png">
+  <img src="img/png-transparent-adobe-photoshop-macos-bigsur-icon-thumbnail.png">
+  <img src="img/PhotoFiltre.gif">
+  <img src="img/Autodesk_Logo_A_only.svg.png">
+
+
 - 🌱 I’m currently learning the basics of coding as well as coding tools.
 - 📫 How to reach me :<br>
 
