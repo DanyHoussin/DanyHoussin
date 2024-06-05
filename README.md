@@ -1,18 +1,17 @@
-- 👋 Hi, I’m Dany
-- 👀 I’m interested in everything related to the PC (3D modeling, Photo montage, Vidéo montage, coding, etc...), combat sport and drawing.
 
-  <img src="img/visual-studio-code-logo-png-transparent.png">
-  <img src="img/png-transparent-adobe-photoshop-macos-bigsur-icon-thumbnail.png">
-  <img src="img/PhotoFiltre.gif">
-  <img src="img/Autodesk_Logo_A_only.svg.png">
+![HI !](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/5547560d-af8c-4550-b83a-15b80e3a86be)
+
+
+![like](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/160e89dc-1b18-4d18-afba-edc18613e0ba)
+
 
 
 - 🌱 I’m currently learning the basics of coding as well as coding tools.
 - 📫 How to reach me :<br>
 
 
-  [![LinkedIn](img/LinkedIn.png)](https://www.linkedin.com/in/dany-houssin-923818300/) : Dany Houssin
-  [![Gmail](img/Gmail.png)](mailto:danyhoussin50@gmail.com) : danyhoussin50@gmail.com
+  [![LinkedIn](img/LinkedIn.png)](https://www.linkedin.com/in/dany-houssin-923818300/) -> Dany Houssin<br>
+  [![Gmail](img/Gmail.png)](mailto:danyhoussin50@gmail.com) : -> danyhoussin50@gmail.com
 
 ![QuotesGif](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/f5bbbe51-acd3-4812-ad83-3f258f1e1f78)
 
