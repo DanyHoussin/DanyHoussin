@@ -12,7 +12,7 @@
 
 
   [![LinkedIn](img/LinkedIn.png)](https://www.linkedin.com/in/dany-houssin-923818300/) : Dany Houssin
-  [![Gmail](img/Gmail.png)](danyhoussin50@gmail.com) : danyhoussin50@gmail.com
+  [![Gmail](img/Gmail.png)](mailto:danyhoussin50@gmail.com) : danyhoussin50@gmail.com
 
 ![QuotesGif](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/f5bbbe51-acd3-4812-ad83-3f258f1e1f78)
 
