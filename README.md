@@ -6,13 +6,9 @@
 
 ![How i am, What i can do](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/dffaa551-81d5-4677-a0d0-27f4fd6c17d6)
 
-
-- 🌱 I’m currently learning the basics of coding as well as coding tools.
-- 📫 How to reach me :<br>
+![contact](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/5b217145-1284-4056-8f7a-129b9f274313)
 
 
-  [![LinkedIn](img/LinkedIn.png)](https://www.linkedin.com/in/dany-houssin-923818300/) -> Dany Houssin<br>
-  [![Gmail](img/Gmail.png)](mailto:danyhoussin50@gmail.com) : -> danyhoussin50@gmail.com
 
 ![QuotesGif](https://github.com/DanyHoussin/DanyHoussin/assets/164888564/f5bbbe51-acd3-4812-ad83-3f258f1e1f78)
 
